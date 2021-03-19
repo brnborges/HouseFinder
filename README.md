@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="HomeFinder" src="assetsReadme/Logotipo@10.svg" height="100px">
+  <img alt="HomeFinder" src="assetsReadme/Logotipo@10.png" height="100px">
 </h1>
 
 <strong>
