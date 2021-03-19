@@ -6,7 +6,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/)
 [![Instagram badge](https://img.shields.io/badge/)
-[![Whatsapp Badge](https://img.shields.io/badge/)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white)
 
 I'm a full stack developer with a great passion for web development and building things to make people's life easier!
 
