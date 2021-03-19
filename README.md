@@ -15,7 +15,7 @@
 <br>
 
 <p align="center">
-    <img alt="prototype" src="assetsReadme/1.png" height="350px" />
+    <img alt="prototype" src="assetsReadme/Group 1.png" height="350px" />
 </p>
 
 ## :bookmark: About
