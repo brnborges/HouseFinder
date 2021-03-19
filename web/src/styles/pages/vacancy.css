@@ -1,0 +1,233 @@
+#page-vacancy {
+  display: flex;
+  min-height: 100vh;
+}
+
+#page-vacancy aside {
+  position: fixed;
+  height: 100%;
+  padding: 32px 24px;
+  background: linear-gradient(329.54deg, #1D3557 0%, #457B9D 100%);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+  
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#page-vacancy aside img {
+  width: 160px;
+}
+
+#page-vacancy aside footer a,
+#page-vacancy aside footer button {
+  width: 48px;
+  height: 48px;
+
+  border: 0;
+
+  background: #E48A91;
+  border-radius: 16px;
+
+  cursor: pointer;
+
+  transition: background-color 0.2s;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#page-vacancy aside footer a:hover,
+#page-vacancy aside footer button:hover {
+  background: #E7B7BB;
+}
+
+#page-vacancy main {
+  flex: 1;
+}
+
+.vacancy-details {
+  width: 700px;
+  margin: 64px auto;
+
+  background: #FFFFFF;
+  border: 1px solid #D3E2E5;
+  border-radius: 20px;
+
+  overflow: hidden;
+}
+
+.vacancy-details > img {
+  width: 100%;
+  height: 400px;
+  object-fit: contain;
+}
+
+.vacancy-details .images {
+  display: grid;
+  grid-template-columns: repeat(6 ,1fr);
+  column-gap: 16px;
+
+  margin: 16px 40px 0;
+}
+ 
+.vacancy-details .images button {
+  border: 0;
+  height: 88px;
+  background: none;
+  cursor: pointer;
+  border-radius: 20px;
+  overflow: hidden;
+  outline: none;
+  
+  opacity: 0.6;
+}
+
+.vacancy-details .images button.active {
+  opacity: 1;
+}
+
+.vacancy-details .images button img {
+  width: 100%;
+  height: 88px;
+  object-fit: cover;
+  
+}
+
+.vacancy-details .vacancy-details-content {
+  padding: 80px;
+}
+
+.vacancy-details .vacancy-details-content h1 {
+  color: #4D6F80;
+  font-size: 54px;
+  line-height: 54px;
+  margin-bottom: 8px;
+}
+
+.vacancy-details .vacancy-details-content p {
+  line-height: 28px;
+  color: #5C8599;
+  margin-top: 24px;
+}
+
+.vacancy-details .vacancy-details-content .map-container {
+  margin-top: 64px;
+  background: #E6F7FB;
+  border: 1px solid #B3DAE2;
+  border-radius: 20px;
+}
+
+.vacancy-details .vacancy-details-content .map-container footer {
+  padding: 20px 0;
+  text-align: center;
+}
+
+.vacancy-details .vacancy-details-content .map-container footer a {
+  line-height: 24px;
+  color: #0089A5;
+  text-decoration: none;
+}
+
+.vacancy-details .vacancy-details-content .map-container .leaflet-container {
+  border-bottom: 1px solid #DDE3F0;
+  border-radius: 20px;
+}
+
+.vacancy-details .vacancy-details-content hr {
+  width: 100%;
+  height: 1px;
+  border: 0;
+  background: #D3E2E6;
+  margin: 64px 0;
+}
+
+.vacancy-details .vacancy-details-content h2 {
+  font-size: 36px;
+  line-height: 46px;
+  color: #4D6F80;
+}
+
+.overview-details {
+  width: 700px;
+  padding: 15px;
+}
+
+.overview-details h2 {
+  color: #4D6F80;
+  font-size: 25px;
+  line-height: 54px;
+  margin-bottom: 8px;
+}
+
+.overview-details p {
+  color: #5C8599;
+  margin-top: 70px;
+  margin-right: 498px;
+}
+
+.vacancy-details .vacancy-details-content .rent-details {
+  margin-top: 24px;
+
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 20px;
+}
+
+.vacancy-details .vacancy-details-content .rent-details div {
+  padding: 32px 24px;
+  border-radius: 20px;
+  line-height: 28px;
+}
+
+.vacancy-details .vacancy-details-content .rent-details div svg {
+  display: block;
+  margin-bottom: 20px;
+}
+
+.vacancy-details .vacancy-details-content .rent-details div.price {
+  background: linear-gradient(149.97deg, #E6F7FB 8.13%, #FFFFFF 92.67%);
+  border: 1px solid #B3DAE2;
+  color: #5C8599;
+}
+
+.vacancy-details .vacancy-details-content .rent-details div.pet-allowed {
+  background: linear-gradient(154.16deg, #EDFFF6 7.85%, #FFFFFF 91.03%);
+  border: 1px solid #A1E9C5;
+  color: #37C77F;
+}
+
+.vacancy-details .vacancy-details-content .rent-details div.pet-allowed.not-accepted {
+  background: linear-gradient(154.16deg, #FDF0F5 7.85%, #FFFFFF 91.03%);
+  border: 1px solid #FFBCD4;
+  color: #FF669D;
+}
+
+.vacancy-details .vacancy-details-content button.contact-button {
+  margin-top: 64px;
+
+  width: 100%;
+  height: 64px;
+  border: 0;
+  cursor: pointer;
+  background: #3CDC8C;
+  border-radius: 20px;
+  color: #FFFFFF;
+  font-weight: 800;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  transition: background-color 0.2s;
+}
+
+.vacancy-details .vacancy-details-content button.contact-button svg {
+  margin-right: 16px;
+}
+
+.vacancy-details .vacancy-details-content button.contact-button:hover {
+  background: #36CF82;
+}
