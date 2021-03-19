@@ -43,7 +43,7 @@ I'm a full stack developer with a great passion for web development and building
 
 ## :bookmark: About
 
-**HomeFinder** is a tool that aims to assist in finding vacancies in properties with a simple but modern and sophisticated usability **.
+**HomeFinder** is a tool that aims to assist in finding vacancies in properties with a simple but modern and sophisticated usability.
 
 <br>
 
