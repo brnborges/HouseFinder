@@ -108,7 +108,7 @@ The following software must be installed:
   $ yarn start # or npm start
 ```
 
-- :android: Mobile app
+- 📱: Mobile app
 
 ```sh
   $ cd mobile
