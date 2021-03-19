@@ -122,7 +122,10 @@ The following software must be installed:
 
 
 
-[![Watch the video](https://github.com/brnborges/HomeFinder/blob/master/assetsReadme/21.png)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video](https://github.com/brnborges/HomeFinder/blob/master/assetsReadme/21.png)](https://user-images.githubusercontent.com/60415859/111844665-60f88280-88fb-11eb-86ec-9558e675c472.mp4)
+[![Watch the video](https://github.com/brnborges/HomeFinder/blob/master/assetsReadme/22.png)](https://user-images.githubusercontent.com/60415859/111844669-61911900-88fb-11eb-9043-ec2cf4448568.mp4)
+[![Watch the video](https://github.com/brnborges/HomeFinder/blob/master/assetsReadme/23.png)](https://user-images.githubusercontent.com/60415859/111844671-62c24600-88fb-11eb-9a4a-3181aedbdd45.mp4)
+[![Watch the video](https://github.com/brnborges/HomeFinder/blob/master/assetsReadme/24.png)](https://user-images.githubusercontent.com/60415859/111844675-635adc80-88fb-11eb-9767-f90661195d8c.mp4)
 
 
 
