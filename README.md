@@ -4,9 +4,9 @@
 
 ## Hello there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Welcome to my profile!
 
-[![Linkedin Badge]()
-[![Instagram badge]()
-[![Whatsapp Badge]()
+[![Linkedin Badge](https://img.shields.io/badge/)
+[![Instagram badge](https://img.shields.io/badge/)
+[![Whatsapp Badge](https://img.shields.io/badge/)
 
 I'm a full stack developer with a great passion for web development and building things to make people's life easier!
 
