@@ -20,7 +20,7 @@
 
 ## :bookmark: About
 
-**HomeFinder** is a **.
+**HomeFinder** is a tool that aims to assist in finding vacancies in properties with a simple but modern and sophisticated usability**.
 
 <br>
 
