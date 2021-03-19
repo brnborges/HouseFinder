@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/brnborges/HomeFinder/assetsReadme/illustration.png" width="300"/>
+<img align="right" src="https://github.com/brnborges/HomeFinder/blob/master/assetsReadme/illustration.png" width="300"/>
 
 # Bruno Nunes Borges <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="50px">
 
