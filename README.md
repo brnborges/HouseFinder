@@ -1,3 +1,4 @@
+<strong>
 <img align="right" src="https://github.com/brnborges/HomeFinder/blob/master/assetsReadme/illustration.png" width="300"/>
 
 # Bruno Nunes Borges <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="50px">
@@ -15,7 +16,7 @@ I'm a full stack developer with a great passion for web development and building
 - 👯 I’m looking to collaborate on React and Node projects that captivate me.
 - 😄 Trying to practice clean architecture knowledge to create a quality and scalable code.
 
-
+</strong>
 
 <h1 align="center">
   <img alt="HomeFinder" src="assetsReadme/Logotipo@3x.svg" height="200px" widht="200px">
