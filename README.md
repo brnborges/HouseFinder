@@ -66,7 +66,7 @@ I'm a full stack developer with a great passion for web development and building
 - **[VisualStudio Code](https://code.visualstudio.com/)**
 - **[Insomnia](https://insomnia.rest/)**
 - **[Google Chrome](https://www.google.com/chrome/)**
-- **[DBeaver](https://dbeaver.io/)**
+- **[Beekeeper](https://www.beekeeperstudio.io)**
 
 <br>
 
