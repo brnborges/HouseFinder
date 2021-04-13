@@ -20,7 +20,7 @@ I'm a full stack developer with a great passion for web development and building
 
 
 <h1 align="center">
-  <img alt="HomeFinder" src="assetsReadme/Logotipo@3x.svg" height="200px" widht="200px">
+  <img alt="HouseFinder" src="assetsReadme/Logotipo@3x.svg" height="200px" widht="200px">
 </h1>
 
 <strong>
@@ -43,7 +43,7 @@ I'm a full stack developer with a great passion for web development and building
 
 ## :bookmark: About
 
-**HomeFinder** is a tool that aims to assist in finding vacancies in properties with a simple but modern and sophisticated usability.
+**HouseFinder** is a tool that aims to assist in finding vacancies in properties with a simple but modern and sophisticated usability.
 
 <br>
 
